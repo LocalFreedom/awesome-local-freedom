@@ -1,13 +1,9 @@
-# recommend-list-software
-Awesome operating system, software, or extension in list.
+# Awesome Local Freedom
+Awesome OS, software, and extension for local freedom.
 
-## Firefox Add-ons
-- [Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav)
-- [EPUBReader](https://addons.mozilla.org/en-US/firefox/addon/epubreader/)
-- [Joplin Web Clipper](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper)
-- [Kiwix](https://addons.mozilla.org/en-US/firefox/addon/kiwix-offline)
-- [Offline QR code](https://addons.mozilla.org/en-US/firefox/addon/offline-qr-code-generator)
-- [Page Assist](https://github.com/n4ze3m/page-assist)
+## Android App
+- [F-Droid](https://f-droid.org/)
+	- [Offline Translator](https://github.com/DavidVentura/offline-translator)
 
 ## Offline Game
 - [GOG](https://www.gog.com/)
@@ -20,3 +16,11 @@ Awesome operating system, software, or extension in list.
 	- [Electrum](https://electrum.org/)
 - [XMR(monero)](https://www.getmonero.org)
 - [ETH(Ethereum)](https://ethereum.org)
+
+## Firefox Add-ons
+- [Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav)
+- [EPUBReader](https://addons.mozilla.org/en-US/firefox/addon/epubreader/)
+- [Joplin Web Clipper](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper)
+- [Kiwix](https://addons.mozilla.org/en-US/firefox/addon/kiwix-offline)
+- [Offline QR code](https://addons.mozilla.org/en-US/firefox/addon/offline-qr-code-generator)
+- [Page Assist](https://github.com/n4ze3m/page-assist)
